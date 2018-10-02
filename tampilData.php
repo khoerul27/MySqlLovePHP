@@ -27,6 +27,8 @@ while($data = mysqli_fetch_assoc($query)){
   - variabel $data bebas bisa diganti apa saja.
   - mysqli_fetch_assoc digunakan untuk mengubah data-data di database menjadi array per kolom nya.
   - $data['nama'] dst. disesuaikan dengan kolom yang dibuat.
+  - keterangan yang di dalam kurung siku adalah nama kolomnya.
+*/
 
 
 
