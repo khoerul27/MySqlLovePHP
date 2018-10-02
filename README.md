@@ -7,6 +7,7 @@ Kumpulan perintah SQL dengan menggunakan PHP
 - Menambahkan data ke database dari form (tambahData.php)
 - Meng-update data ke database dari form (updateData.php)
 - Menghapus data dari database (hapusData.php)
+- Menampilkan data dari database (tampilData.php)
 
 # Keterangan / Tambahan
 - Sesuaikan database dengan database yang Anda buat. Atur di koneksi.php atau file tempat menghubungkan databasenya.
