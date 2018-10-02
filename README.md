@@ -3,4 +3,5 @@ Kumpulan perintah SQL dengan menggunakan PHP
 
 
 # List file
-mengkonekasikan file ke database (koneksi.php)
+- Mengkonekasikan file ke database (koneksi.php)
+- Menambahkan data ke database dari form (tambahData.php)
