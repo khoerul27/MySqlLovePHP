@@ -22,13 +22,13 @@ if(isset($_POST['update']){    //Jika kita menekan tombol dengan nama 'update' p
   $alamat = mysqli_real_escape_string($koneksi, $_POST['alamat']);
   $email  = mysqli_real_escape_string($koneksi, $_POST['email']);
   
-  //Perintah SQL untuk menambahkan data
+  //Perintah SQL untuk update data
   $sql    = "UPDATE data SET nama='$nama' alamat='alamat' email='$email' WHERE id='$id'";
   
   //Perintah untuk menghubungkan sekaligus mengeksekusi perintah sql di atas
   $query  = mysqli_query($koneksi, $sql);
   
-  //perintah untuk mengecek apakah data berhasil ditambahkan atau tidak
+  //perintah untuk mengecek apakah data berhasil di-update atau tidak
   if(empty($query){
     echo "Gagal meng-update data"; }
     
