@@ -10,7 +10,7 @@
       "koneksi.php",
       "tambahData.php",
       "tampilData.php",
-      "updateData.php",
+      "updateData.php"
     ],
     "keywords": [
       "mysql",
@@ -19,7 +19,7 @@
       "data php",
       "crud php",
       "crud mysql",
-      "database",
+      "database"
      ],
      "license": "FREE",
     "ignore": [
