@@ -1,6 +1,11 @@
 # MySqlLovePHP
 Kumpulan perintah SQL dengan menggunakan PHP
 
+# Cara download
+via bower
+```
+$ bower install MySqlLovePHP
+```
 
 # List file
 - Mengkonekasikan file ke database (koneksi.php)
