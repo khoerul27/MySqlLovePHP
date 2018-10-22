@@ -1,0 +1,33 @@
+{
+  
+    "name": "mysqllovephp",
+    "homepage": "http://sahmura.github.io/",
+    "authors": "Khoerul Umam <khoerul27@gmail.com>",
+    "description": "Kumpulan contoh manipulasi data di database dengan bahasa pemrograman PHP",
+    "main": [
+      "cariData.php",
+      "hapusData.php",
+      "koneksi.php",
+      "tambahData.php",
+      "tampilData.php",
+      "updateData.php",
+    ],
+    "keywords": [
+      "mysql",
+      "php",
+      "mysql php",
+      "data php",
+      "crud php",
+      "crud mysql",
+      "database",
+     ],
+     "license": "FREE",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+  ],
+  "private": false
+  }
