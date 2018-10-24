@@ -6,6 +6,11 @@ via bower
 ```
 $ bower install MySqlLovePHP
 ```
+git clone
+
+```
+$ git clone https://github.com/sahmura/MySqlLovePHP.git
+```
 
 # List file
 - Mengkonekasikan file ke database (koneksi.php)
