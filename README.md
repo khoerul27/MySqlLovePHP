@@ -23,3 +23,6 @@ $ git clone https://github.com/sahmura/MySqlLovePHP.git
 # Keterangan / Tambahan
 - Sesuaikan database dengan database yang Anda buat. Atur di koneksi.php atau file tempat menghubungkan databasenya.
 - Sesuaikan nama tabel yang ada pada bagian-bagian yang lain seperti tambahData, updateData, hapusData, tampilData dan sebagainya supaya tidak terjadi eror.
+
+# PENJELASAN Koneksi.php
+Koneksi.php merupakan file penghubung antara web dan database yang dibuat. Dalam file ini terdapat data database yang harus diisi dan dilengkapi untuk mulai mengkoneksikan web dengan database. 
