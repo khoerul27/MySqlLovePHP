@@ -54,6 +54,9 @@ while($data = mysqli_fetch_assoc($eksekusi)){
     echo "Definisi : ".$data['definisi'];
     echo "<br>";
     echo "Sumber: ".$data['sumber'];
+    echo "<br>";
+    echo "<a href='delete.php?kunci=".$data['id_kata']."'>Hapus</a>";
+    echo "  <a href='update.php?kunci=".$data['id_kata']."'>Update</a>";
     echo "<p>";
 
 }
